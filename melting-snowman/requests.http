@@ -1,0 +1,12 @@
+POST http://localhost:5011/game
+
+###
+
+GET http://localhost:5011/game/2
+
+###
+
+POST http://localhost:5011/game/2
+Content-Type: application/json
+
+"l"
